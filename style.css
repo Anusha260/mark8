@@ -1,0 +1,43 @@
+h1 {
+    background-color: #29ee0ffa;
+}
+
+body {
+    background-image: url("img_tree.png");
+    background-position: right top;
+    background-color: rgb(64, 250, 27);
+}
+
+button {
+    background-color: rgba(6, 226, 43, 0.973);
+    padding: 50pxsolid;
+}
+
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: rgb(247, 242, 242);
+    background-image: url("img tree.png");
+    background-position: right top;
+}
+
+p {
+    background-color: rgb(24, 233, 35);
+    padding: 20px solid;
+}
+
+style {
+    background-color: blue;
+    padding: 20px solid
+}
